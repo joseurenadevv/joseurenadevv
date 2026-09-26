@@ -1,19 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:7C3AED&height=230&section=header&text=Jos%C3%A9%20Ure%C3%B1a&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Cybersecurity%20Student%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Software%20Engineering&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:7C3AED&height=230&section=header&text=Jos%C3%A9%20Ure%C3%B1a&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Ciberseguridad%20%E2%80%A2%20Automatizaci%C3%B3n%20con%20IA%20%E2%80%A2%20Panam%C3%A1&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+secure+systems+with+code+and+automation;Cybersecurity+%7C+Cloud+%7C+AI+Engineering;Turning+technical+ideas+into+working+products" alt="Typing SVG" />
-
-<br/>
-
-![Universidad Tecnológica Oteima](https://img.shields.io/badge/Universidad%20Tecnol%C3%B3gica%20Oteima-Cybersecurity-312E81?style=flat-square&labelColor=0D1117)
-![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-7C3AED?style=flat-square&labelColor=0D1117)
-![Panama](https://img.shields.io/badge/Location-Panama-4F46E5?style=flat-square&labelColor=0D1117)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Fundador+de+Vectro+Systems;Bots+con+IA+%7C+Automatizaci%C3%B3n+%7C+Sistemas+Web;Ciberseguridad+ofensiva+%7C+CTFs+%7C+Cloud" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/joseurenadevv?tab=repositories">
-  <img src="https://img.shields.io/badge/PORTFOLIO-View%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+![Universidad Tecnológica OTEIMA](https://img.shields.io/badge/Universidad%20Tecnol%C3%B3gica%20OTEIMA-Ciberseguridad-312E81?style=flat-square&labelColor=0D1117)
+![Vectro Systems](https://img.shields.io/badge/Founder-Vectro%20Systems-EA580C?style=flat-square&labelColor=0D1117)
+![Panamá](https://img.shields.io/badge/Chiriqu%C3%AD-Panam%C3%A1-4F46E5?style=flat-square&labelColor=0D1117)
+
+<br/>
+
+<a href="https://vectrosystems.netlify.app">
+  <img src="https://img.shields.io/badge/VECTRO%20SYSTEMS-Ver%20sitio-EA580C?style=for-the-badge&logo=netlify&logoColor=white" alt="Vectro Systems" />
+</a>
+<a href="mailto:joseuguevara2000@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Contacto-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://instagram.com/vectrosystems">
+  <img src="https://img.shields.io/badge/INSTAGRAM-@vectrosystems-4F46E5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://github.com/joseurenadevv">
   <img src="https://img.shields.io/badge/GITHUB-joseurenadevv-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -23,203 +29,186 @@
 
 <img src="https://komarev.com/ghpvc/?username=joseurenadevv&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/joseurenadevv?label=Followers&style=flat-square&color=4f46e5&labelColor=0d1117" alt="Followers" />
-<img src="https://img.shields.io/github/stars/joseurenadevv/copayo?label=Copayo%20Stars&style=flat-square&color=8b5cf6&labelColor=0d1117" alt="Copayo stars" />
 
 </div>
 
 ---
 
-## About
+## Sobre mí
 
-I am a **Cybersecurity student at Universidad Tecnológica Oteima** focused on building practical systems at the intersection of **software engineering, cloud infrastructure, automation, and applied AI**.
+Soy estudiante de **Ciberseguridad en la Universidad Tecnológica OTEIMA** y fundador de **Vectro Systems**.
 
-My work is centered on turning technical ideas into functioning products: automating workflows, integrating APIs and LLMs, designing cloud-backed systems, documenting engineering decisions, and treating security as part of the architecture rather than an afterthought.
+Construyo **bots, automatizaciones y sistemas web para pequeños negocios en Chiriquí, Panamá**, con un enfoque práctico: resolver procesos reales usando software, IA, APIs y automatización.
 
-Current hands-on areas include **Python, Java, C++, JavaScript, SQL, Linux, Git/GitHub, AWS, Azure, n8n, Notion integrations, Telegram bots, and AI-assisted engineering workflows**.
+Actualmente trabajo con soluciones que combinan **n8n, MySQL, LLMs, WhatsApp, Telegram, Notion API, Python, JavaScript, Linux, Azure y AWS**.
 
-### Open To
+### Abierto a
 
-- Open-source collaboration
-- Cybersecurity and CTF projects
-- AI automation and agentic workflows
-- Cloud / backend engineering projects
-- Technical collaborations with other students and builders
+- Proyectos de automatización para negocios
+- Bots con IA para WhatsApp y Telegram
+- Sistemas web a medida
+- Ciberseguridad ofensiva y CTFs
+- Proyectos cloud y multi-nube
+- Colaboraciones técnicas y open source
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Lenguajes
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp" alt="Lenguajes" />
 </p>
 
-### Frontend
+### Backend, Datos y Automatización
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
-</p>
-
-### Backend & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Backend and Databases" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Aiven-FF3554?style=flat-square&logo=aiven&logoColor=white" alt="Aiven" />
-  <img src="https://img.shields.io/badge/REST%20APIs-312E81?style=flat-square" alt="REST APIs" />
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux,git,github,vscode" alt="Cloud DevOps Tooling" />
+  <img src="https://skillicons.dev/icons?i=mysql,docker" alt="Backend y datos" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot API" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq" />
+  <img src="https://img.shields.io/badge/Notion%20API-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion API" />
+  <img src="https://img.shields.io/badge/WhatsApp%20Bots-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp bots" />
+  <img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram bots" />
+  <img src="https://img.shields.io/badge/Groq%20%2F%20Claude%20API-7C3AED?style=flat-square" alt="Groq Claude API" />
+</p>
+
+### Cloud, DevOps y Seguridad
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,azure,aws" alt="Cloud DevOps Security" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/VPS-Self--Hosted-312E81?style=flat-square" alt="VPS self-hosted" />
 </p>
 
 ---
 
-## AI / ML Expertise
+## IA / Automatización
 
-| Domain | Proficiency | Details |
+| Área | Enfoque actual | Aplicación |
 |---|---|---|
-| **LLM Integration** | Hands-on | API-based LLM integration, prompt design, structured context and controlled output generation |
-| **AI Automation** | Hands-on | n8n workflows, Notion lookups, Telegram automation and external API orchestration |
-| **AI-Assisted Engineering** | Hands-on | Using coding agents for implementation, debugging, documentation and technical workflows |
-| **Deterministic + AI Systems** | Hands-on | Separating business-critical calculations from LLM-generated natural-language output |
-| **Machine Learning Foundations** | Learning | Expanding from LLM orchestration into broader data and model engineering fundamentals |
+| **Automatización con IA** | Práctico | Flujos con n8n conectados a APIs, bases de datos y LLMs |
+| **Bots conversacionales** | Práctico | WhatsApp y Telegram para atención, cálculo y procesos de negocio |
+| **Integración de LLMs** | Práctico | Groq / Claude API dentro de sistemas y automatizaciones |
+| **Arquitectura multi-cliente** | En desarrollo | Un prompt y configuración por negocio sobre n8n + MySQL + LLM |
+| **Lógica determinista + LLM** | Aplicado | Cálculos críticos en JavaScript; el LLM se limita a redactar respuestas |
 
 ---
 
-## Featured Projects
+## Proyectos destacados
 
 <details>
-<summary><b>Copayo — AI-assisted health plan copay estimator</b></summary>
+<summary><b>🟠 Vectro Systems — Automatización y desarrollo web</b></summary>
 
 <br/>
 
-Conversational Telegram system that estimates a health-plan copay and recommends the lowest-cost hospital in the configured network for a supported symptom.
+Mi empresa enfocada en desarrollar soluciones de automatización y software para pequeños negocios.
 
-| Dimension | Details |
+| Dimensión | Detalles |
 |---|---|
-| **Stack** | n8n · Notion API · JavaScript · Groq · Telegram Bot API |
-| **Scale** | 5 symptoms · 5 specialties · 3 hospitals · 2 insurance plans · 15 documented test cases |
-| **Performance** | Deterministic JavaScript logic performs price comparison and copay calculation before the LLM is called |
-| **Security / Reliability** | Secrets are environment-based; ambiguous or unsupported inputs fail safely instead of inventing medical or pricing data |
-| **Impact** | Converts plan and hospital data into a simple conversational cost-estimation workflow |
-| **Repository** | [github.com/joseurenadevv/copayo](https://github.com/joseurenadevv/copayo) |
+| **Enfoque** | Bots con IA, automatizaciones, CRMs y sistemas a medida para pymes |
+| **Stack** | n8n · MySQL · LLMs · WhatsApp · JavaScript · APIs |
+| **Arquitectura** | Diseño multi-cliente con un prompt/configuración por negocio |
+| **Objetivo** | Digitalizar procesos operativos de negocios pequeños con soluciones simples y útiles |
+| **Web** | [vectrosystems.netlify.app](https://vectrosystems.netlify.app) |
+| **Instagram** | [@vectrosystems](https://instagram.com/vectrosystems) |
 
-The system intentionally keeps arithmetic and price comparison outside the LLM. The model receives already-computed data and is used only to produce the final Spanish-language response.
+### En curso
+
+- **Bot de WhatsApp para una barbería**, con arquitectura multi-cliente sobre n8n + MySQL + LLM.
+- **Sistema de pedidos para un restaurante-billar**, con tableta en el salón, pantalla en cocina y registro de órdenes.
+- **Página de planes con demos** para mostrar los servicios de Vectro Systems.
 
 </details>
 
 <details>
-<summary><b>HELIX Taller — Multi-cloud engineering project</b></summary>
+<summary><b>🩺 Copayo — Estimador de copago por Telegram</b></summary>
 
 <br/>
 
-Team project for a multi-cloud system that combines a web application, relational data, real-time replication, serverless processing, an API and a Python mobile/client layer.
+Proyecto desarrollado en equipo para el **reto filtro de hackIAthon Panamá**. A partir de un síntoma, el sistema calcula el copago y recomienda el hospital más económico dentro de la red configurada.
 
-| Dimension | Details |
+| Dimensión | Detalles |
 |---|---|
-| **Stack** | ASP.NET · Azure SQL · AWS Kinesis · AWS Lambda · DynamoDB · Python · Azure App Service |
-| **Scale** | Azure application/data layer with real-time replication into AWS |
-| **Performance** | Event-driven pipeline designed around Kinesis → Lambda → DynamoDB |
-| **Security** | Environment-based secrets, Azure SQL firewall rules and pull-request-based team workflow |
-| **Impact** | Practical implementation of cross-cloud architecture and engineering collaboration |
-| **Repository** | Private team repository |
-
-The project documents roles, PRDs, branch ownership and engineering rules so that both team members and AI coding agents work against the same technical source of truth.
+| **Stack** | n8n · Notion API · Groq · Telegram Bot API · JavaScript |
+| **Decisión técnica clave** | Los cálculos los realiza JavaScript determinista, no el LLM |
+| **Uso del LLM** | Redacta la respuesta final sin intervenir en precios ni cálculos |
+| **Objetivo** | Evitar que el modelo pueda inventar valores económicos |
+| **Repositorio** | [github.com/joseurenadevv/copayo](https://github.com/joseurenadevv/copayo) |
 
 </details>
 
 <details>
-<summary><b>Medios de Transmisión de Datos — Networking analysis</b></summary>
+<summary><b>☁️ HELIX Taller — Proyecto multi-nube</b></summary>
 
 <br/>
 
-Academic networking project comparing guided and unguided transmission media and their implications for speed, reach, interference, cost and security.
+Proyecto en equipo con una aplicación web en Azure y replicación de datos en tiempo real hacia AWS.
 
-| Dimension | Details |
+| Dimensión | Detalles |
 |---|---|
-| **Stack** | Markdown · Networking research |
-| **Scale** | Fiber optic · Twisted pair · Coaxial · Wireless transmission |
-| **Performance** | Comparative analysis of bandwidth, reach, stability and interference |
-| **Security** | Reviews the security trade-offs between physical and wireless transmission media |
-| **Impact** | Converts networking theory into an applied comparison for infrastructure decisions |
-| **Repository** | [github.com/joseurenadevv/Medios-de-transmisi-n-de-Datos](https://github.com/joseurenadevv/Medios-de-transmisi-n-de-Datos) |
+| **Stack** | Azure SQL · ASP.NET · AWS Lambda · DynamoDB · Python |
+| **Arquitectura** | Azure → AWS Kinesis → Lambda → DynamoDB |
+| **Flujo de trabajo** | Pull requests, PRDs y ramas por integrante |
+| **Objetivo** | Construir y coordinar una arquitectura multi-nube con responsabilidades técnicas separadas |
+| **Repositorio** | Privado |
 
 </details>
 
 ---
 
-## Experience
+## Experiencia
 
-### AI Automation & Integration — Copayo
-**2026**
+### Fundador — Vectro Systems
+**Actualidad**
 
-Designed and integrated the workflow layer for a production-oriented conversational MVP.
+Construyo soluciones de automatización y desarrollo web orientadas a pequeños negocios.
 
-- Built n8n orchestration and Notion data lookups.
-- Implemented deterministic copay and hospital-selection logic.
-- Connected Groq and Telegram into the end-to-end flow.
-- Worked with a team on prompts, datasets and verification.
+- Bots de WhatsApp con IA.
+- Automatizaciones con n8n.
+- Integraciones con MySQL y LLMs.
+- Sistemas web a medida.
+- Arquitecturas reutilizables para múltiples clientes.
+- Demos y propuestas de servicios para clientes reales.
 
-<code>n8n</code> <code>JavaScript</code> <code>Notion API</code> <code>Groq</code> <code>Telegram</code>
+<code>n8n</code> <code>MySQL</code> <code>LLMs</code> <code>WhatsApp</code> <code>JavaScript</code> <code>APIs</code>
 
-### Cloud Engineering — HELIX Team Project
-**2026**
+### Estudiante de Ciberseguridad — Universidad Tecnológica OTEIMA
+**Actualidad**
 
-Worked on a structured multi-cloud engineering project spanning Azure and AWS.
+Formación y práctica en programación, sistemas, redes, cloud y seguridad ofensiva.
 
-- Multi-cloud data flow and system architecture.
-- Azure SQL access and environment configuration.
-- AWS event-driven replication concepts.
-- PR-based team workflow and AI-agent development rules.
-
-<code>Azure</code> <code>AWS</code> <code>Python</code> <code>ASP.NET</code> <code>SQL</code> <code>GitHub</code>
-
-### Cybersecurity & Software Engineering — Universidad Tecnológica Oteima
-**Current**
-
-Academic and practical work across programming, databases, networking, Linux and cybersecurity.
-
-<code>Cybersecurity</code> <code>Python</code> <code>Java</code> <code>C++</code> <code>SQL</code> <code>Linux</code> <code>Networking</code>
+<code>Cybersecurity</code> <code>Python</code> <code>Java</code> <code>C++</code> <code>Linux</code> <code>Cloud</code>
 
 ---
 
-## Achievements
+## Logros y competencias
 
 <div align="center">
 
-| Recognition | Details |
+| Evento | Resultado |
 |---|---|
-| **OEA Cyberchallenge Panamá 2026** | Participated in the cybersecurity CTF as part of **Team HELIX** |
-| **Copayo MVP** | Built and documented an active conversational automation MVP with deterministic business logic and LLM-assisted responses |
-| **Multi-cloud Engineering** | Hands-on project work combining Azure and AWS services in one documented architecture |
+| **OEA Cyber Challenge Panamá 2026** · CTF de 24 horas | **5.º lugar** — capitán del equipo HELIX |
+| **Maratón de Programación Iberoamericana CCPL 2026** | **3.er lugar** — equipo HELIX |
 
 </div>
 
 ---
 
-## Certifications
+## Formación y enfoque técnico
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Learning-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS learning" />
-  <img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco learning" />
-  <img src="https://img.shields.io/badge/Oracle-Database%20Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle learning" />
+  <img src="https://img.shields.io/badge/Ciberseguridad-Ofensiva-7C3AED?style=for-the-badge" alt="Ciberseguridad ofensiva" />
+  <img src="https://img.shields.io/badge/Azure-Aprendiendo-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/CTFs-Pr%C3%A1ctica-312E81?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTFs" />
 </p>
 
-> Verified certification credentials are only listed here when they can be published accurately. The badges above represent current learning areas, not certification claims.
+Actualmente estoy profundizando en **ciberseguridad ofensiva, CTFs y Azure**, mientras continúo construyendo sistemas reales con Vectro Systems.
 
 ---
 
@@ -230,10 +219,6 @@ Academic and practical work across programming, databases, networking, Linux and
 <a href="https://github.com/joseurenadevv">
   <img src="https://img.shields.io/badge/GitHub-joseurenadevv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
-
-<br/><br/>
-
-Additional coding-platform profiles will be linked here when they are publicly available.
 
 </div>
 
@@ -264,7 +249,7 @@ Additional coding-platform profiles will be linked here when they are publicly a
 
 ---
 
-## Contribution Activity
+## Actividad de contribuciones
 
 <div align="center">
 
@@ -288,39 +273,40 @@ Additional coding-platform profiles will be linked here when they are publicly a
 
 ---
 
-## Current Focus
+## Ahora mismo
 
-<pre><code>learning:
-  - Cybersecurity engineering
-  - Cloud architecture
-  - Secure software development
+<pre><code>aprendiendo:
+  - Ciberseguridad ofensiva y CTFs
+  - Azure
+  - Inglés
 
-building:
-  - AI automation workflows
-  - Multi-cloud systems
-  - Practical software projects
+construyendo:
+  - Primeros sistemas de Vectro para clientes reales
+  - Bot de WhatsApp para barbería
+  - Sistema de pedidos para restaurante-billar
 
-exploring:
-  - Offensive security and CTFs
-  - LLM integrations
-  - Agent-assisted development
-
-open_to:
-  - Open-source collaboration
-  - Cybersecurity projects
-  - AI and cloud engineering collaborations</code></pre>
+mejorando:
+  - Inglés
+  - Arquitectura de automatizaciones
+  - Sistemas orientados a negocios</code></pre>
 
 ---
 
-## Connect
+## Conecta conmigo
 
 <div align="center">
 
+<a href="mailto:joseuguevara2000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-joseuguevara2000%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://vectrosystems.netlify.app">
+  <img src="https://img.shields.io/badge/Vectro%20Systems-Web-EA580C?style=for-the-badge&logo=netlify&logoColor=white" alt="Vectro Systems" />
+</a>
+<a href="https://instagram.com/vectrosystems">
+  <img src="https://img.shields.io/badge/Instagram-@vectrosystems-4F46E5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 <a href="https://github.com/joseurenadevv">
   <img src="https://img.shields.io/badge/GitHub-joseurenadevv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://github.com/joseurenadevv?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
@@ -329,7 +315,7 @@ open_to:
 
 <div align="center">
 
-**Build systems that are secure, useful, and measurable.**
+**Construyo sistemas que convierten procesos reales en soluciones simples, automatizadas y medibles.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:312E81,100:0D1117&height=130&section=footer" />
 
