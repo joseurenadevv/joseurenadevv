@@ -71,6 +71,7 @@ Mi regla de trabajo: **Entender antes de programar. Asegurar antes de publicar.*
   <img src="https://img.shields.io/badge/OpenCode-312E81?style=flat-square" alt="OpenCode" />
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/%2B_modelos_open_source-555555?style=flat-square" alt="+ modelos open source" />
 </p>
 
 ---
