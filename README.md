@@ -66,11 +66,9 @@ Mi regla de trabajo: **Entender antes de programar. Asegurar antes de publicar.*
 ### Desarrollo asistido por IA
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/OpenCode-312E81?style=flat-square" alt="OpenCode" />
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://raw.githubusercontent.com/joseurenadevv/joseurenadevv/main/assets/ia-tools.svg" alt="Claude Code, Codex, OpenCode, Antigravity, Cursor" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/%2B_modelos_open_source-555555?style=flat-square" alt="+ modelos open source" />
 </p>
 
