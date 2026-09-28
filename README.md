@@ -7,7 +7,6 @@
 <br/>
 
 ![Universidad Tecnológica OTEIMA](https://img.shields.io/badge/Universidad%20Tecnol%C3%B3gica%20OTEIMA-Ciberseguridad-312E81?style=flat-square&labelColor=0D1117)
-![Graduación estimada](https://img.shields.io/badge/Graduaci%C3%B3n%20estimada-2028-7C3AED?style=flat-square&labelColor=0D1117)
 ![David, Chiriquí](https://img.shields.io/badge/David%2C%20Chiriqu%C3%AD-Panam%C3%A1-4F46E5?style=flat-square&labelColor=0D1117)
 
 <br/>
@@ -25,7 +24,7 @@
 
 ## Sobre mí
 
-Soy estudiante de **Licenciatura en Informática con énfasis en Ciberseguridad** en la **Universidad Tecnológica OTEIMA**, con graduación estimada para 2028.
+Soy estudiante de **Licenciatura en Informática con énfasis en Ciberseguridad** en la **Universidad Tecnológica OTEIMA**.
 
 Construyo automatizaciones con IA y desarrollo **Vectro Systems**, un proyecto propio de automatización y desarrollo web que actualmente se encuentra en desarrollo.
 
@@ -149,7 +148,7 @@ La web contiene una página de planes y demos de negocios de ejemplo.
 </p>
 
 **Licenciatura en Informática con énfasis en Ciberseguridad**  
-Universidad Tecnológica OTEIMA · Graduación estimada: **2028**
+Universidad Tecnológica OTEIMA
 
 ---
 
