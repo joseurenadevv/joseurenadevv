@@ -28,7 +28,7 @@ Soy estudiante de **Licenciatura en Informática con énfasis en Ciberseguridad*
 
 Construyo automatizaciones con IA y desarrollo **Vectro Systems**, un proyecto propio de automatización y desarrollo web que actualmente se encuentra en desarrollo.
 
-Mi regla de trabajo: **los montos y cálculos los realiza código determinista; la IA solo redacta**.
+Mi regla de trabajo: **Entender antes de programar. Asegurar antes de publicar.**
 
 ---
 
@@ -73,7 +73,7 @@ Mi regla de trabajo: **los montos y cálculos los realiza código determinista; 
 | **Claude** | Desarrollo asistido por IA para programación |
 | **n8n** | Orquestación de automatizaciones |
 | **JavaScript** | Cálculos y lógica determinista |
-| **Regla** | Los valores y montos se calculan con código; la IA solo redacta |
+| **Regla** | Entender antes de programar. Asegurar antes de publicar. |
 
 ---
 
