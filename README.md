@@ -28,7 +28,7 @@ Soy estudiante de **Licenciatura en Informática con énfasis en Ciberseguridad*
 
 Construyo automatizaciones con IA y desarrollo **Vectro Systems**, un proyecto propio de automatización y desarrollo web que actualmente se encuentra en desarrollo.
 
-Mi regla de trabajo: **Entender antes de programar. Asegurar antes de publicar.**
+> **Entender antes de programar. Asegurar antes de publicar.**
 
 ---
 
@@ -71,18 +71,6 @@ Mi regla de trabajo: **Entender antes de programar. Asegurar antes de publicar.*
 <p align="center">
   <img src="https://img.shields.io/badge/%2B_modelos_open_source-555555?style=flat-square" alt="+ modelos open source" />
 </p>
-
----
-
-## Cómo trabajo con IA
-
-| Área | Uso |
-|---|---|
-| **Groq** | LLM utilizado dentro de mis flujos de automatización |
-| **Claude** | Desarrollo asistido por IA para programación |
-| **n8n** | Orquestación de automatizaciones |
-| **JavaScript** | Cálculos y lógica determinista |
-| **Regla** | Entender antes de programar. Asegurar antes de publicar. |
 
 ---
 
