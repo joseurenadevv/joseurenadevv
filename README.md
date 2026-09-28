@@ -84,7 +84,7 @@ Mi regla de trabajo: **los montos y cálculos los realiza código determinista; 
 
 <br/>
 
-Proyecto desarrollado en equipo para el reto de clasificación de **hackIAthon Panamá**.
+Proyecto desarrollado en equipo con **HELIX** para el reto de clasificación de **hackIAthon Panamá**.
 
 Copayo estima el copago según el síntoma y sugiere el hospital más económico dentro de la red configurada.
 
@@ -132,8 +132,8 @@ La web contiene una página de planes y demos de negocios de ejemplo.
 | Evento / Certificación | Resultado |
 |---|---|
 | **CTF DOJOConf Panamá 2026** | **1.er lugar** |
-| **OEA Cyber Challenge Panamá 2026** · CTF de 24 h | **5.º lugar** · **545 puntos** |
-| **Maratón de Programación Iberoamericana CCPL2026** | **3.er lugar** · Python |
+| **OEA Cyber Challenge Panamá 2026** · CTF de 24 h | **5.º lugar** · Capitán del equipo **HELIX** · **545 puntos** |
+| **Maratón de Programación Iberoamericana CCPL2026** | **3.er lugar** · Equipo **HELIX** · Python |
 | **Cisco Networking Academy — Introduction to Cybersecurity** | Certificado · Septiembre 2026 |
 
 </div>
