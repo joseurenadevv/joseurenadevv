@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:7C3AED&height=230&section=header&text=Jos%C3%A9%20Ure%C3%B1a&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Ciberseguridad%20%E2%80%A2%20Automatizaci%C3%B3n%20con%20IA%20%E2%80%A2%20Panam%C3%A1&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Estudiante+de+Ciberseguridad+%C2%B7+OTEIMA;Automatizaci%C3%B3n+con+n8n+%2B+IA;CTFs+y+programaci%C3%B3n+competitiva+%C2%B7+HELIX" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Estudiante+de+Ciberseguridad+%C2%B7+OTEIMA;Automatizaci%C3%B3n+con+n8n+%2B+IA;CTFs+y+programaci%C3%B3n+competitiva" alt="Typing SVG" />
 
 <br/>
 
@@ -84,7 +84,7 @@ Mi regla de trabajo: **los montos y cálculos los realiza código determinista; 
 
 <br/>
 
-Proyecto desarrollado en equipo con **HELIX** para el reto de clasificación de **hackIAthon Panamá**.
+Proyecto desarrollado en equipo para el reto de clasificación de **hackIAthon Panamá**.
 
 Copayo estima el copago según el síntoma y sugiere el hospital más económico dentro de la red configurada.
 
@@ -132,8 +132,8 @@ La web contiene una página de planes y demos de negocios de ejemplo.
 | Evento / Certificación | Resultado |
 |---|---|
 | **CTF DOJOConf Panamá 2026** | **1.er lugar** |
-| **OEA Cyber Challenge Panamá 2026** · CTF de 24 h | **5.º lugar** · Capitán del equipo HELIX · **545 puntos** |
-| **Maratón de Programación Iberoamericana CCPL2026** | **3.er lugar** · Equipo HELIX · Python |
+| **OEA Cyber Challenge Panamá 2026** · CTF de 24 h | **5.º lugar** · **545 puntos** |
+| **Maratón de Programación Iberoamericana CCPL2026** | **3.er lugar** · Python |
 | **Cisco Networking Academy — Introduction to Cybersecurity** | Certificado · Septiembre 2026 |
 
 </div>
