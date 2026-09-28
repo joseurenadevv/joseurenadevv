@@ -63,6 +63,16 @@ Mi regla de trabajo: **Entender antes de programar. Asegurar antes de publicar.*
   <img src="https://img.shields.io/badge/Kali%20Linux-CTFs-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 </p>
 
+### Desarrollo asistido por IA
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/OpenCode-312E81?style=flat-square" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+</p>
+
 ---
 
 ## Cómo trabajo con IA
