@@ -156,11 +156,15 @@ Universidad Tecnológica OTEIMA
 
 <pre><code>aprendiendo:
   - Ciberseguridad y CTFs
-  - Inglés básico, en curso
+  - Agentes de IA
+  - Inglés, en curso
 
 construyendo:
   - Vectro Systems
   - Pruebas de bot de WhatsApp con n8n
+
+trabajando con:
+  - Claude Code para desarrollo asistido por IA
 
 mejorando:
   - Arquitectura de automatizaciones
